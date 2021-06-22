@@ -62,3 +62,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_LIMIT_VAL 240
 #define RGBLIGHT_SLEEP
 #endif
+
+#define RGBLIGHT_LAYERS
